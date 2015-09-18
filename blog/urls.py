@@ -1,4 +1,4 @@
-from django.conf.urls import include, urls
+from django.conf.urls import include, url
 from . import views
 
 urlspatterns =[
